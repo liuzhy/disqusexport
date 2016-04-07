@@ -7,5 +7,7 @@ Main function is "TimportDisqus", take only one parameter "filepath", and output
 
 I want a tool move disqus comments to native, so create this.
 
+#You Should Replace "dsq:id" with "dsqid" in the XML file first#
+
 #ITs not BUG FREE#
 
