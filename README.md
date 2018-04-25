@@ -1,11 +1,8 @@
 # disqusexport
-A golang tool, convert xml file(disqus exported default format)  to json file.
 
-This package convert disqus export xml file to a json file.
+A golang tool, convert xml file(disqus exported default format)  to json format.
 
-Main function is "TimportDisqus", take only one parameter "filepath", and output a same named file with a .json extension.
-
-I want a tool move disqus comments to native, so create this.
+Main function is "TimportDisqus" with one parameter "filepath", output is a same name file but extend ".json" extension.
 
 #You Should Replace "dsq:id" with "dsqid" in the XML file first#
 
